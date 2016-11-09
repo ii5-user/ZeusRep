@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4674" started-at="2016-11-09T09:24:23Z" finished-at="2016-11-09T09:24:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4674" started-at="2016-11-09T09:24:23Z" finished-at="2016-11-09T09:24:27Z">
+      <class name="Constant.TestData">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Constant.TestData@783e6358]" name="browser" is-config="true" duration-ms="4141" started-at="2016-11-09T14:54:23Z" finished-at="2016-11-09T14:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="rwExcle()[pri:0, instance:Constant.TestData@783e6358]" name="rwExcle" duration-ms="441" started-at="2016-11-09T14:54:27Z" finished-at="2016-11-09T14:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rwExcle -->
+        <test-method status="PASS" signature="writeExcle()[pri:0, instance:Constant.TestData@783e6358]" name="writeExcle" is-config="true" duration-ms="81" started-at="2016-11-09T14:54:27Z" finished-at="2016-11-09T14:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeExcle -->
+      </class> <!-- Constant.TestData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
